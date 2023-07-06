@@ -1,7 +1,6 @@
 # FDEC_B1_Project
 
-ls
-ls
-ls
-ls
-ls
+# 'FDEC-B1 <DOCKER COMMAND>'
+
+# https://github.com/rajatpzade/FDEC_B1_Project.git
+
