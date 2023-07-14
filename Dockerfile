@@ -11,3 +11,4 @@ COPY context.xml conf/context.xml
 EXPOSE 8080 
 CMD ./bin/catalina.sh run 
 
+1
