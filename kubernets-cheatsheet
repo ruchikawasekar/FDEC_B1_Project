@@ -18,6 +18,6 @@ kubectl delete namespace dev
 
 kubectl run my-app --image nginx --type NodePort --lebels app=my-app,env=dev --port=80
 
-
+kubectl expose pod my-
 
 
