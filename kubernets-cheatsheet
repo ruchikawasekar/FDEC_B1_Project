@@ -6,5 +6,5 @@ kubectl get nodes  # list of nodes
 
 kubectl get pod   # lists of pods 
 
-
+kubectl create namespace dev
 
