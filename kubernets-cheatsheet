@@ -16,5 +16,5 @@ kubectl delete pod podname
 
 kubectl delete namespace dev 
 
-kubectl run my-app --images 
+kubectl run my-app --image nginx --type=
 
