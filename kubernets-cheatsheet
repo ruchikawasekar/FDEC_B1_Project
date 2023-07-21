@@ -4,5 +4,7 @@ kubectl cluster-info
 
 kubectl get nodes  # list of nodes 
 
-kube
+kubectl get pod   # lists of pods 
+
+
 
