@@ -2,4 +2,7 @@
 
 kubectl cluster-info 
 
+kubectl get nodes  # list of nodes 
+
+kube
 
