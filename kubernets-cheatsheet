@@ -8,5 +8,5 @@ kubectl get pod   # lists of pods
 
 kubectl create namespace dev  # create namespace 
 
-
+kubectl get pods -n dev  
 
