@@ -20,6 +20,8 @@ kubectl run my-app --image nginx --type NodePort --lebels app=my-app,env=dev --p
 
 kubectl expose pod my-app --port=8080 
 
-kubectl 
+kubectl get svc  
+
+
 
 
