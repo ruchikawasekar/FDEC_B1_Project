@@ -10,5 +10,7 @@ kubectl create namespace dev  # create namespace
 
 kubectl get pods -n dev  
 
-kube
+kubectl api-resources
+
+
 
